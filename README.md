@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://github.com/monikasleboda/Drum-Kit"><img src="images/screenshot.png" alt="homepage screenshoot"></a>
+</p>
+
 <h1 align="center">Drum Kit</h1>
   <p align="center">Project for learning DOM Manipulation and JavaScript.</p>
 <br>
